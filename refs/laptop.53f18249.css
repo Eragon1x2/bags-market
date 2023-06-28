@@ -1,0 +1,38 @@
+li {
+  color: #fff;
+}
+
+body {
+  width: 100%;
+}
+
+.filters {
+  width: 400px;
+  height: 100%;
+  background-color: #00008b;
+  padding-left: 40px;
+}
+
+.filters h1 {
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+
+.type_down {
+  padding-top: 30px;
+}
+
+.type {
+  justify-content: center;
+  display: grid;
+}
+
+.type h1 {
+  font-size: 14px;
+}
+
+.non-visible {
+  display: none;
+}
+
+/*# sourceMappingURL=laptop.53f18249.css.map */
